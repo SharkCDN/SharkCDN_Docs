@@ -1,9 +1,9 @@
 这是一个SharkCdn操作和API文档 
 
 #### 演示地址
-试用后台：http://demo.sharkcdn.net:8888/admin  账号：admin 密码：sharkcdn@123
+试用前台：http://demo.sharkcdn.net:8888/user 账号：sharkcdn 密码：sharkcdn@123
 
-试用前台：http://demo.sharkcdn.net:8888/user 账号：admin 密码：sharkcdn@123
+试用后台：http://demo.sharkcdn.net:8888/admin  账号：admin 密码：sharkcdn@123
 
 #### 联系我们
 电话：+15308686309(同微信)
