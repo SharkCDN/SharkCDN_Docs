@@ -6,7 +6,7 @@
 试用后台：http://demo.sharkcdn.net:8888/admin  账号：admin 密码：sharkcdn@123
 
 #### 联系我们
-电话：+15308686309
+电话：+1 530 868 6309
 
 邮箱：info@sharkcdn.net
 
