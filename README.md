@@ -105,7 +105,7 @@ Telegram：https://t.me/SharkCDN
 
 **SSL证书相关**
 - [站点开启http2](/SharkCdnDoc/CDN管理/站点列表/SSL证书相关/站点开启http2.md)　　　
-[一键自动申请部署好ssl证书](/SharkCdnDoc/CDN管理/站点列表/SSL证书相关/一键自动申请部署好ssl证书.md)　　　　
+[自动申请部署好ssl证书](/SharkCdnDoc/CDN管理/站点列表/SSL证书相关/自动申请部署好ssl证书.md)　　　　
 [Cdn三种添加ssl证书的方法](/SharkCdnDoc/CDN管理/站点列表/SSL证书相关/Cdn三种添加ssl证书的方法.md)　　　　
 [Cdn配置强制ssl跳转](/SharkCdnDoc/CDN管理/站点列表/SSL证书相关/Cdn配置强制ssl跳转.md)　　　　
 - [域名开启HSTS](/SharkCdnDoc/CDN管理/站点列表/SSL证书相关/域名开启HSTS.md)　 　　
