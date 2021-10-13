@@ -36,7 +36,7 @@ Cdn三种添加ssl证书的方法
 
 ![image](https://user-images.githubusercontent.com/90588289/133751396-6df1d446-a0c0-4576-b5d1-99e866a5c390.png)
 
-[SSL管理](zh-cn/SharkCdnDoc/CDN管理/SSL管理/SSL管理.md)
+[SSL管理](/SharkCdnDoc/CDN管理/SSL管理/SSL管理.md)
 
 以上就是三种添加证书的方式
 
