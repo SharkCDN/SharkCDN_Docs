@@ -10,7 +10,7 @@ SSL（Secure Sockets Layer），中文名为“安全套接层协议层”，即
 
 2.选择好域名厂商和填写好从域名商那边获取的api_key，再点击获取，就会开始自动申请证书
 
-![image](https://user-images.githubusercontent.com/90959714/137087187-738e52d6-b35e-433f-84fc-6261c0543c5b.png)
+![image](https://user-images.githubusercontent.com/90959714/137088175-b8a59da4-c2fb-4db2-b146-6edc82c51966.png)
 
 3.然后过几分钟点开SSL管理可以查看证书状态，如下图就是申请成功
 
