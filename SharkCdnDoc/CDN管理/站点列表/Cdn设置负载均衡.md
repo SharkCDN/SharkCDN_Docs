@@ -4,7 +4,7 @@
 
 假如是有两个源，就如下图添加
 
-![image](https://user-images.githubusercontent.com/90588289/133751217-916b186e-9417-46a3-a4ac-ab151b34675d.png)
+![image](https://user-images.githubusercontent.com/90959714/137102315-1ff5f473-7d96-4560-949b-5980308408ce.png)
 
 可以给记录设置权重，比如权重2，就意思占百分之20 ，数字越大，优先级越大，点击上图操作下面的修改按钮
 
