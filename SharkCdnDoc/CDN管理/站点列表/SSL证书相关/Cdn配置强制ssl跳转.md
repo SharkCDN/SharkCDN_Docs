@@ -10,7 +10,7 @@
 
 2.如下图添加证书和开启强制ssl即可
 
-![image](https://user-images.githubusercontent.com/90588289/133751613-08af0c95-8110-4de7-a903-e9442f65f9bd.png)
+![image](https://user-images.githubusercontent.com/90959714/137093291-f2acc0f8-42be-42c5-9547-a284b4c6c72e.png)
 
 hsts解释和作用：
 
