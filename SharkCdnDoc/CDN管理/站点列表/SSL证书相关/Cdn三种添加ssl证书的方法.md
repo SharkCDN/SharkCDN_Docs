@@ -14,11 +14,13 @@ Cdn三种添加ssl证书的方法
 
 二. 第二种是在域名记录里添加：
 
-点击CDN管理--站点列表--需要添加ssl证书的站点名--记录管理--选择要添加ssl证书的域名--修改--填写好ssl证书和密钥
+1.在站点里[添加域名](/SharkCdnDoc/CDN管理/站点列表/添加域名.md)，并做好解析到cname或者直接解析到cdn节点ip,否则申请证书不会通过，然后勾选该条记录，并点击自动证书，如下图:
 
-如下图点击，添加证书后点确定即可
+![image](https://user-images.githubusercontent.com/90959714/137082370-cebb7930-fafd-49b5-a666-3a68805a7974.png)
 
-![image](https://user-images.githubusercontent.com/90588289/135227054-8b0b4db8-d78b-4e0f-8666-03f878a75b27.png)
+2.选择好域名厂商和填写好从域名商那边获取的api_key，再点击获取，就会开始自动申请证书
+
+![image](https://user-images.githubusercontent.com/90959714/137082290-2cfb4009-0c9b-40a0-9a08-45788d2115c1.png)
 
 三. 第三种是用sharkcdn自动获取证书功能：
 
