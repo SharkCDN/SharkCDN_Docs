@@ -6,9 +6,9 @@
 
 ![image](https://user-images.githubusercontent.com/90959714/137102315-1ff5f473-7d96-4560-949b-5980308408ce.png)
 
-可以给记录设置权重，比如权重2，就意思占百分之20 ，数字越大，优先级越大，点击上图操作下面的修改按钮
+可以给记录设置权重，比如权重2，就意思占百分之20 ，数字越大，优先级越大，点击上图的修改按钮操作下图中的权重设置
 
-![image](https://user-images.githubusercontent.com/90588289/133751232-bb9acb98-9a06-4b2f-87c8-2006a6cd0695.png)
+![image](https://user-images.githubusercontent.com/90959714/137690286-2ca74162-31a5-4a69-8da7-55de97b278ab.png)
 
 负载均衡设置：
 
