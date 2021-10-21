@@ -56,7 +56,7 @@ Telegram：https://t.me/SharkCDN
 [自定义设置](/SharkCdnDoc/CDN管理/区域列表/自定义设置.md)　　　　　　　　
 [日志](/SharkCdnDoc/CDN管理/区域列表/日志.md)　　　　　　　　　　
 [端口](/SharkCdnDoc/CDN管理/区域列表/端口.md)　　　　 　　　　　　
-- [设置区域线路黑白名单](/SharkCdnDoc/CDN管理/区域列表/设置区域线路黑白名单.md)　　
+- [区域线路黑白名单](/SharkCdnDoc/CDN管理/区域列表/区域线路黑白名单.md)　　
 
 **节点列表**
 - [节点列表介绍](/SharkCdnDoc/CDN管理/节点列表/节点列表介绍.md)　　　　　　　　
