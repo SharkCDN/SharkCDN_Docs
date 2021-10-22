@@ -100,7 +100,6 @@ Telegram：https://t.me/SharkCDN
 [Cdn设置负载均衡](/SharkCdnDoc/CDN管理/站点列表/Cdn设置负载均衡.md)　　　
 [站点里对域名的各种操作](/SharkCdnDoc/CDN管理/站点列表/站点里对域名的各种操作.md)
 - [控制添加的访问控制顺序](/SharkCdnDoc/CDN管理/站点列表/控制添加的访问控制顺序.md)　　　
-[Cdn配置四层协议端口转发](/SharkCdnDoc/CDN管理/站点列表/Cdn配置四层协议端口转发.md)　　
 [Cdn如何站点设置中添加301跳转](/SharkCdnDoc/CDN管理/站点列表/Cdn如何站点设置中添加301跳转.md)
 
 **SSL证书相关**
