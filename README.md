@@ -99,7 +99,8 @@ Telegram：https://t.me/SharkCDN
 [域名如何带上端口访问](/SharkCdnDoc/CDN管理/站点列表/域名如何带上端口访问.md)　　　
 [Cdn设置负载均衡](/SharkCdnDoc/CDN管理/站点列表/Cdn设置负载均衡.md)　　　
 [站点里对域名的各种操作](/SharkCdnDoc/CDN管理/站点列表/站点里对域名的各种操作.md)
-- [控制添加的访问控制顺序](/SharkCdnDoc/CDN管理/站点列表/控制添加的访问控制顺序.md)　　　
+- [端口映射](/SharkCdnDoc/CDN管理/站点列表/端口映射.md)　　　　　　　　　　
+[控制添加的访问控制顺序](/SharkCdnDoc/CDN管理/站点列表/控制添加的访问控制顺序.md)　　
 [Cdn如何站点设置中添加301跳转](/SharkCdnDoc/CDN管理/站点列表/Cdn如何站点设置中添加301跳转.md)
 
 **SSL证书相关**
