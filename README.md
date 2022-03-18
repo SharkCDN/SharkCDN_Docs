@@ -133,3 +133,8 @@ Telegram：https://t.me/SharkCDN
 
 - [角色设置](/SharkCdnDoc/权限管理/角色设置.md)　　　　　　　　　　
 [子账号设置](/SharkCdnDoc/权限管理/子账号设置.md)
+
+#### 常见问题
+
+- [缓存配置](/SharkCdnDoc/常见问题/缓存配置.md)　　　　　　　　　　
+[跨域配置](/SharkCdnDoc/常见问题/跨域配置.md)　　　　　　　　　　
